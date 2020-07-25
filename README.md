@@ -4,4 +4,4 @@ Scripts have to be copied to /data/adb/service.d/ while making sure it has the e
 Or to be used with kernel managers that support script execution.
 
 - For those who will use kernel managers to execute the script, please remove the first line (sleep 30) as it will create a 30 second delay if not removed.
--Those who will copy the script directly to /data/adb/seevice.d/ then there is no need to change anything.
+- Those who will copy the script directly to /data/adb/seevice.d/ then there is no need to change anything.
